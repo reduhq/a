@@ -18,7 +18,6 @@ export default defineConfig({
 ```
 
 3) Add the next lines in the package.json
-* With **homepage** we indicate where the site is going to be deployed. 
 * With **predeploy** we compile the application. 
 * With **deploy** we deploy the site on github.
 ```json
